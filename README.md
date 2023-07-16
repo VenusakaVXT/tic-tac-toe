@@ -6,6 +6,8 @@ By default I let X go first. But if you want to change to another letter, press 
 
 The turn play is displayed below the board and next to the Reset button.
 
+The Reset button can be pressed whenever you want to reset the game.
+
 The party that ticks 3 boxes forming a diagonal, straight line (vertical, horizontal), that side wins and displays a notification that that side won. Click OK to start a new game.
 
 In the next game, the losing side will go first.
