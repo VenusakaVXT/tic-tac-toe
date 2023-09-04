@@ -1,5 +1,6 @@
 # Tic Tac Toe
 This is a 3x3 tic tac toe game made of HTML, CSS and Javascript.
+Inspired by a [**React tutorial**](https://react.dev/learn/tutorial-tic-tac-toe). And I coded it purely with Javascript.
 
 # How to play
 By default I let X go first. But if you want to change to another letter, press the Reset button to change the playing position first.
